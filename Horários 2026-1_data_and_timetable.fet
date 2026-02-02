@@ -1,0 +1,1665 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fet version="7.7.4">
+  <Mode>Official</Mode>
+  <Institution_Name>Unipac GV</Institution_Name>
+  <Comments>Default comments</Comments>
+  <Days_List>
+    <Number_of_Days>4</Number_of_Days>
+    <Day>
+      <Name>Segunda</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Terça</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Quarta</Name>
+      <Long_Name></Long_Name>
+    </Day>
+    <Day>
+      <Name>Quinta</Name>
+      <Long_Name></Long_Name>
+    </Day>
+  </Days_List>
+  <Hours_List>
+    <Number_of_Hours>2</Number_of_Hours>
+    <Hour>
+      <Name>18:50-20:30</Name>
+      <Long_Name></Long_Name>
+    </Hour>
+    <Hour>
+      <Name>20:50-22:30</Name>
+      <Long_Name></Long_Name>
+    </Hour>
+  </Hours_List>
+  <Subjects_List>
+    <Subject>
+      <Name>Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Direito das Famílias</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Direito das Obrigações e Responsabilidade Civil</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Direito do Consumidor</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Direito Societário e Direito Cambiário</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Direitos Humanos</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Economia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Empreendedorismo e Marketing Jurídico</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Estágio Supervisionado - Prática Simulada Cível</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Ética Geral e Profissional</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Federalismo e Organização do Estado</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Hermenêutica Jurídica</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>História do Direito</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Introdução ao Estudo do Direito</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Legislação Penal Especial</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Prisão, Recursos e Execução Penal</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Processos de Execução e Cumprimento de Sentença</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Psicologia Jurídica</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+    <Subject>
+      <Name>Teoria do crime e da Pena</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Comments></Comments>
+    </Subject>
+  </Subjects_List>
+  <Activity_Tags_List>
+    <Activity_Tag>
+      <Name>Direito</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Contábeis</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Administração</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Pedagogia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Psicologia</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Enfermagem</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Ed. Física</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+      <Name>Biomedicina</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Printable>true</Printable>
+      <Comments></Comments>
+    </Activity_Tag>
+  </Activity_Tags_List>
+  <Teachers_List>
+    <Teacher>
+      <Name>(Psicologia)</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Alyson Fidelis de Morais</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Amaury Silva</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Beatriz  Dias Coelho</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Fabriny Neves Guimarães</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Guilherme Saraiva Brandão</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>João Paulo Vasconcelos Caires</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>José Francisco Costa Júnior</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Michell Henriques Guerra</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Thiago Caetano e Silva</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+  </Teachers_List>
+  <Students_List>
+    <Year>
+      <Name>Direito 2023-1</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>19</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2023-2</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>10</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2024-1</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>14</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2024-2</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>11</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2025-1</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>18</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2025-2</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>10</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+    <Year>
+      <Name>Direito 2026-1</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Number_of_Students>20</Number_of_Students>
+      <Comments></Comments>
+      <!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+      <Number_of_Categories>0</Number_of_Categories>
+      <First_Category_Is_Permanent>false</First_Category_Is_Permanent>
+      <Separator> </Separator>
+    </Year>
+  </Students_List>
+  <Activities_List>
+    <Activity>
+      <Teacher>Thiago Caetano e Silva</Teacher>
+      <Subject>História do Direito</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>2</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Thiago Caetano e Silva</Teacher>
+      <Subject>Hermenêutica Jurídica</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Students>Direito 2025-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>4</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>(Psicologia)</Teacher>
+      <Subject>Psicologia Jurídica</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Students>Direito 2025-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>5</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Subject>Ética Geral e Profissional</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Students>Direito 2025-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>6</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>João Paulo Vasconcelos Caires</Teacher>
+      <Subject>Direitos Humanos</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>7</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Beatriz  Dias Coelho</Teacher>
+      <Subject>Federalismo e Organização do Estado</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>8</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Subject>Direito das Obrigações e Responsabilidade Civil</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-1</Students>
+      <Students>Direito 2024-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>9</Id>
+      <Activity_Group_Id>9</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Subject>Direito das Obrigações e Responsabilidade Civil</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-1</Students>
+      <Students>Direito 2024-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>10</Id>
+      <Activity_Group_Id>9</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Subject>Teoria do crime e da Pena</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-1</Students>
+      <Students>Direito 2024-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>11</Id>
+      <Activity_Group_Id>11</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Subject>Teoria do crime e da Pena</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-1</Students>
+      <Students>Direito 2024-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>12</Id>
+      <Activity_Group_Id>11</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>João Paulo Vasconcelos Caires</Teacher>
+      <Subject>Direito do Consumidor</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Students>Direito 2025-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>13</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alyson Fidelis de Morais</Teacher>
+      <Subject>Empreendedorismo e Marketing Jurídico</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2024-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>14</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Amaury Silva</Teacher>
+      <Subject>Processos de Execução e Cumprimento de Sentença</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2024-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>15</Id>
+      <Activity_Group_Id>15</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Amaury Silva</Teacher>
+      <Subject>Processos de Execução e Cumprimento de Sentença</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2024-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>16</Id>
+      <Activity_Group_Id>15</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>João Paulo Vasconcelos Caires</Teacher>
+      <Subject>Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2024-2</Students>
+      <Students>Direito 2023-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>17</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Michell Henriques Guerra</Teacher>
+      <Subject>Direito Societário e Direito Cambiário</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>18</Id>
+      <Activity_Group_Id>18</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Michell Henriques Guerra</Teacher>
+      <Subject>Direito Societário e Direito Cambiário</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>19</Id>
+      <Activity_Group_Id>18</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Subject>Prisão, Recursos e Execução Penal</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>20</Id>
+      <Activity_Group_Id>20</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Subject>Prisão, Recursos e Execução Penal</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>21</Id>
+      <Activity_Group_Id>20</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Thiago Caetano e Silva</Teacher>
+      <Subject>Direito das Famílias</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Students>Direito 2024-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>22</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Beatriz  Dias Coelho</Teacher>
+      <Subject>Estágio Supervisionado - Prática Simulada Cível</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>24</Id>
+      <Activity_Group_Id>24</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Beatriz  Dias Coelho</Teacher>
+      <Subject>Estágio Supervisionado - Prática Simulada Cível</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>2</Total_Duration>
+      <Id>25</Id>
+      <Activity_Group_Id>24</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Guilherme Saraiva Brandão</Teacher>
+      <Subject>Introdução ao Estudo do Direito</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2026-1</Students>
+      <Students>Direito 2025-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>26</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Guilherme Saraiva Brandão</Teacher>
+      <Subject>Legislação Penal Especial</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2023-1</Students>
+      <Students>Direito 2023-2</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>27</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+    <Activity>
+      <Teacher>Alyson Fidelis de Morais</Teacher>
+      <Subject>Economia</Subject>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Students>Direito 2025-2</Students>
+      <Students>Direito 2026-1</Students>
+      <Duration>1</Duration>
+      <Total_Duration>1</Total_Duration>
+      <Id>28</Id>
+      <Activity_Group_Id>0</Activity_Group_Id>
+      <Active>true</Active>
+      <Comments></Comments>
+    </Activity>
+  </Activities_List>
+  <Buildings_List>
+  </Buildings_List>
+  <Rooms_List>
+    <Room>
+      <Name>Sala 308</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 309</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 310</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 402</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 403</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 408</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 409</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 410</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 414</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 415</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 416</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 503</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 508</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 509</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 510</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>100</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 514-515</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>1000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>Sala 516</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>1000</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+    <Room>
+      <Name>EAD</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Building></Building>
+      <Capacity>9999</Capacity>
+      <Virtual>false</Virtual>
+      <Comments></Comments>
+    </Room>
+  </Rooms_List>
+  <Time_Constraints_List>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>9</Activity_Id>
+      <Activity_Id>10</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>11</Activity_Id>
+      <Activity_Id>12</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>15</Activity_Id>
+      <Activity_Id>16</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>18</Activity_Id>
+      <Activity_Id>19</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>20</Activity_Id>
+      <Activity_Id>21</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintMinDaysBetweenActivities>
+      <Weight_Percentage>95</Weight_Percentage>
+      <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+      <Number_of_Activities>2</Number_of_Activities>
+      <Activity_Id>24</Activity_Id>
+      <Activity_Id>25</Activity_Id>
+      <MinDays>1</MinDays>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintMinDaysBetweenActivities>
+    <ConstraintBasicCompulsoryTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsoryTime>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Amaury Silva</Teacher>
+      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Beatriz  Dias Coelho</Teacher>
+      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Terça</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMinDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Minimum_Days_Per_Week>3</Minimum_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMinDaysPerWeek>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>João Paulo Vasconcelos Caires</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Thiago Caetano e Silva</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Guilherme Saraiva Brandão</Teacher>
+      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Terça</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>2</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>4</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>5</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>6</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>7</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>8</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>9</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>10</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>11</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>12</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>14</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>15</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>16</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>17</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>18</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>19</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>20</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>22</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>24</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>25</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>26</Activity_Id>
+      <Day>Segunda</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Day>Quinta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+  </Time_Constraints_List>
+  <Space_Constraints_List>
+    <ConstraintActivityTagPreferredRooms>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Tag>Direito</Activity_Tag>
+      <Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+      <Preferred_Room>Sala 403</Preferred_Room>
+      <Preferred_Room>Sala 408</Preferred_Room>
+      <Preferred_Room>Sala 409</Preferred_Room>
+      <Preferred_Room>Sala 415</Preferred_Room>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintActivityTagPreferredRooms>
+    <ConstraintBasicCompulsorySpace>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsorySpace>
+    <ConstraintStudentsMaxRoomChangesPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Max_Room_Changes_Per_Week>2</Max_Room_Changes_Per_Week>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintStudentsMaxRoomChangesPerWeek>
+    <ConstraintStudentsSetHomeRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>Direito 2023-1</Students>
+      <Room>Sala 409</Room>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetHomeRoom>
+    <ConstraintStudentsSetHomeRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>Direito 2026-1</Students>
+      <Room>Sala 408</Room>
+      <Active>false</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetHomeRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Estágio Supervisionado - Prática Simulada Cível</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Legislação Penal Especial</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Prisão, Recursos e Execução Penal</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Direito do Consumidor</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Direito das Famílias</Subject>
+      <Room>Sala 409</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Economia</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>História do Direito</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Introdução ao Estudo do Direito</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Hermenêutica Jurídica</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Psicologia Jurídica</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Direitos Humanos</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Ética Geral e Profissional</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Federalismo e Organização do Estado</Subject>
+      <Room>Sala 408</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Direito das Obrigações e Responsabilidade Civil</Subject>
+      <Room>Sala 403</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Teoria do crime e da Pena</Subject>
+      <Room>Sala 403</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Empreendedorismo e Marketing Jurídico</Subject>
+      <Room>Sala 403</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintSubjectPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Subject>Processos de Execução e Cumprimento de Sentença</Subject>
+      <Room>Sala 403</Room>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintSubjectPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>18</Activity_Id>
+      <Room>Sala 402</Room>
+      <Permanently_Locked>true</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>19</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>true</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>2</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>4</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>5</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>6</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>7</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>8</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>9</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>10</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>11</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>12</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>14</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>15</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>16</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>17</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>20</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>22</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>24</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>25</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>26</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+  </Space_Constraints_List>
+  <Timetable_Generation_Options_List>
+  </Timetable_Generation_Options_List>
+</fet>
