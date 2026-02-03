@@ -7,12 +7,14 @@
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direito do Consumidor"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="17"></Activity>
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -21,12 +23,14 @@
         <Teacher name="Beatriz  Dias Coelho"></Teacher>
         <Subject name="Estágio Supervisionado - Prática Simulada Cível"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="21"></Activity>
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -35,12 +39,14 @@
         <Teacher name="Beatriz  Dias Coelho"></Teacher>
         <Subject name="Estágio Supervisionado - Prática Simulada Cível"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="27"></Activity>
         <Teacher name="Guilherme Saraiva Brandão"></Teacher>
         <Subject name="Legislação Penal Especial"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -49,12 +55,14 @@
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="22"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Direito das Famílias"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -65,12 +73,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="18"></Activity>
         <Teacher name="Michell Henriques Guerra"></Teacher>
         <Subject name="Direito Societário e Direito Cambiário"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -79,12 +89,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="21"></Activity>
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -93,12 +105,14 @@
         <Teacher name="Michell Henriques Guerra"></Teacher>
         <Subject name="Direito Societário e Direito Cambiário"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 402"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="27"></Activity>
         <Teacher name="Guilherme Saraiva Brandão"></Teacher>
         <Subject name="Legislação Penal Especial"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -107,12 +121,14 @@
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="22"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Direito das Famílias"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -123,12 +139,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="18"></Activity>
         <Teacher name="Michell Henriques Guerra"></Teacher>
         <Subject name="Direito Societário e Direito Cambiário"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -137,12 +155,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="21"></Activity>
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -151,12 +171,14 @@
         <Teacher name="Michell Henriques Guerra"></Teacher>
         <Subject name="Direito Societário e Direito Cambiário"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 402"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="14"></Activity>
         <Teacher name="Alyson Fidelis de Morais"></Teacher>
         <Subject name="Empreendedorismo e Marketing Jurídico"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -165,12 +187,14 @@
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="22"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Direito das Famílias"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -181,12 +205,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="17"></Activity>
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -195,12 +221,14 @@
         <Teacher name="Amaury Silva"></Teacher>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="9"></Activity>
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -209,12 +237,14 @@
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Teoria do crime e da Pena"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="14"></Activity>
         <Teacher name="Alyson Fidelis de Morais"></Teacher>
         <Subject name="Empreendedorismo e Marketing Jurídico"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -223,12 +253,14 @@
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="12"></Activity>
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Teoria do crime e da Pena"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -239,12 +271,14 @@
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direito do Consumidor"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="5"></Activity>
         <Teacher name="Marcus Macedo da Silva"></Teacher>
         <Subject name="Psicologia Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -253,12 +287,14 @@
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Ética Geral e Profissional"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="9"></Activity>
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -267,12 +303,14 @@
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Teoria do crime e da Pena"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="4"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Hermenêutica Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -281,12 +319,14 @@
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="12"></Activity>
         <Teacher name="Fabriny Neves Guimarães"></Teacher>
         <Subject name="Teoria do crime e da Pena"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 403"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -297,12 +337,14 @@
         <Teacher name="Beatriz  Dias Coelho"></Teacher>
         <Subject name="Federalismo e Organização do Estado"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="5"></Activity>
         <Teacher name="Marcus Macedo da Silva"></Teacher>
         <Subject name="Psicologia Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -311,12 +353,14 @@
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Ética Geral e Profissional"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="7"></Activity>
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direitos Humanos"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -325,12 +369,14 @@
         <Teacher name="Alyson Fidelis de Morais"></Teacher>
         <Subject name="Economia"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="4"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Hermenêutica Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -339,12 +385,14 @@
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="História do Direito"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="26"></Activity>
         <Teacher name="Guilherme Saraiva Brandão"></Teacher>
         <Subject name="Introdução ao Estudo do Direito"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
   </Subgroup>
@@ -355,12 +403,14 @@
         <Teacher name="Beatriz  Dias Coelho"></Teacher>
         <Subject name="Federalismo e Organização do Estado"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="5"></Activity>
         <Teacher name="Marcus Macedo da Silva"></Teacher>
         <Subject name="Psicologia Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -369,12 +419,14 @@
         <Teacher name="José Francisco Costa Júnior"></Teacher>
         <Subject name="Ética Geral e Profissional"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="7"></Activity>
         <Teacher name="João Paulo Vasconcelos Caires"></Teacher>
         <Subject name="Direitos Humanos"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -383,12 +435,14 @@
         <Teacher name="Alyson Fidelis de Morais"></Teacher>
         <Subject name="Economia"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="4"></Activity>
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="Hermenêutica Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Quinta">
@@ -397,12 +451,14 @@
         <Teacher name="Thiago Caetano e Silva"></Teacher>
         <Subject name="História do Direito"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="26"></Activity>
         <Teacher name="Guilherme Saraiva Brandão"></Teacher>
         <Subject name="Introdução ao Estudo do Direito"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
+        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
   </Subgroup>

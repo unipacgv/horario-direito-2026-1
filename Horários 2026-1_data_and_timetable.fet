@@ -1362,182 +1362,349 @@
     </ConstraintActivityPreferredStartingTime>
   </Time_Constraints_List>
   <Space_Constraints_List>
-    <ConstraintActivityTagPreferredRooms>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Tag>Direito</Activity_Tag>
-      <Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
-      <Preferred_Room>Sala 403</Preferred_Room>
-      <Preferred_Room>Sala 408</Preferred_Room>
-      <Preferred_Room>Sala 409</Preferred_Room>
-      <Preferred_Room>Sala 415</Preferred_Room>
-      <Active>false</Active>
-      <Comments></Comments>
-    </ConstraintActivityTagPreferredRooms>
     <ConstraintBasicCompulsorySpace>
       <Weight_Percentage>100</Weight_Percentage>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintBasicCompulsorySpace>
-    <ConstraintStudentsMaxRoomChangesPerWeek>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Max_Room_Changes_Per_Week>2</Max_Room_Changes_Per_Week>
-      <Active>false</Active>
-      <Comments></Comments>
-    </ConstraintStudentsMaxRoomChangesPerWeek>
     <ConstraintStudentsSetHomeRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Students>Direito 2023-1</Students>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintStudentsSetHomeRoom>
     <ConstraintStudentsSetHomeRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Students>Direito 2026-1</Students>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintStudentsSetHomeRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Estágio Supervisionado - Prática Simulada Cível</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Legislação Penal Especial</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Prisão, Recursos e Execução Penal</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito do Consumidor</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito das Famílias</Subject>
       <Room>Sala 409</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Economia</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>História do Direito</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Introdução ao Estudo do Direito</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Hermenêutica Jurídica</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Psicologia Jurídica</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direitos Humanos</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Ética Geral e Profissional</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Federalismo e Organização do Estado</Subject>
       <Room>Sala 408</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito das Obrigações e Responsabilidade Civil</Subject>
       <Room>Sala 403</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Teoria do crime e da Pena</Subject>
       <Room>Sala 403</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Empreendedorismo e Marketing Jurídico</Subject>
       <Room>Sala 403</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Processos de Execução e Cumprimento de Sentença</Subject>
       <Room>Sala 403</Room>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>18</Activity_Id>
-      <Room>Sala 402</Room>
+      <Room>Sala 403</Room>
       <Permanently_Locked>true</Permanently_Locked>
-      <Active>false</Active>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>19</Activity_Id>
-      <Room>Sala 403</Room>
+      <Room>Sala 402</Room>
       <Permanently_Locked>true</Permanently_Locked>
-      <Active>false</Active>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>2</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>4</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>5</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>6</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>7</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>8</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>9</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>10</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>11</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>12</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>14</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>15</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>16</Activity_Id>
+      <Room>Sala 403</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>17</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>20</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>21</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>22</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>24</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>25</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>26</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Room>Sala 409</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Room>Sala 408</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
   </Space_Constraints_List>
