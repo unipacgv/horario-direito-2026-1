@@ -1,38 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Teachers_Timetable>
-  <Teacher name="(Psicologia)">
-    <Day name="Segunda">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-      </Hour>
-    </Day>
-    <Day name="Terça">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-      </Hour>
-    </Day>
-    <Day name="Quarta">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-      </Hour>
-    </Day>
-    <Day name="Quinta">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-        <Activity id="5"></Activity>
-        <Subject name="Psicologia Jurídica"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-2"></Students>
-        <Students name="Direito 2026-1"></Students>
-        <Students name="Direito 2025-1"></Students>
-        <Room name="Sala 408"></Room>
-      </Hour>
-    </Day>
-  </Teacher>
   <Teacher name="Alyson Fidelis de Morais">
     <Day name="Segunda">
       <Hour name="18:50-20:30">
@@ -44,22 +11,15 @@
       <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
+      </Hour>
+    </Day>
+    <Day name="Quarta">
+      <Hour name="18:50-20:30">
         <Activity id="28"></Activity>
         <Subject name="Economia"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2025-2"></Students>
         <Students name="Direito 2026-1"></Students>
-        <Room name="Sala 408"></Room>
-      </Hour>
-    </Day>
-    <Day name="Quarta">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-      </Hour>
-    </Day>
-    <Day name="Quinta">
-      <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="14"></Activity>
@@ -67,25 +27,17 @@
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2024-2"></Students>
         <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 403"></Room>
+      </Hour>
+    </Day>
+    <Day name="Quinta">
+      <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
       </Hour>
     </Day>
   </Teacher>
   <Teacher name="Amaury Silva">
     <Day name="Segunda">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-        <Activity id="16"></Activity>
-        <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2024-2"></Students>
-        <Students name="Direito 2024-1"></Students>
-        <Students name="Direito 2023-2"></Students>
-        <Room name="Sala 403"></Room>
-      </Hour>
-    </Day>
-    <Day name="Terça">
       <Hour name="18:50-20:30">
         <Activity id="15"></Activity>
         <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
@@ -93,7 +45,18 @@
         <Students name="Direito 2024-2"></Students>
         <Students name="Direito 2024-1"></Students>
         <Students name="Direito 2023-2"></Students>
-        <Room name="Sala 403"></Room>
+      </Hour>
+      <Hour name="20:50-22:30">
+      </Hour>
+    </Day>
+    <Day name="Terça">
+      <Hour name="18:50-20:30">
+        <Activity id="16"></Activity>
+        <Subject name="Processos de Execução e Cumprimento de Sentença"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2024-2"></Students>
+        <Students name="Direito 2024-1"></Students>
+        <Students name="Direito 2023-2"></Students>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
@@ -114,34 +77,31 @@
   <Teacher name="Beatriz  Dias Coelho">
     <Day name="Segunda">
       <Hour name="18:50-20:30">
-        <Activity id="24"></Activity>
-        <Subject name="Estágio Supervisionado - Prática Simulada Cível"></Subject>
+        <Activity id="8"></Activity>
+        <Subject name="Federalismo e Organização do Estado"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2023-1"></Students>
-        <Room name="Sala 409"></Room>
+        <Students name="Direito 2025-2"></Students>
+        <Students name="Direito 2026-1"></Students>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
     </Day>
     <Day name="Terça">
       <Hour name="18:50-20:30">
-        <Activity id="25"></Activity>
+        <Activity id="24"></Activity>
         <Subject name="Estágio Supervisionado - Prática Simulada Cível"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-1"></Students>
-        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
     </Day>
     <Day name="Quarta">
       <Hour name="18:50-20:30">
-        <Activity id="8"></Activity>
-        <Subject name="Federalismo e Organização do Estado"></Subject>
+        <Activity id="25"></Activity>
+        <Subject name="Estágio Supervisionado - Prática Simulada Cível"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-2"></Students>
-        <Students name="Direito 2026-1"></Students>
-        <Room name="Sala 408"></Room>
+        <Students name="Direito 2023-1"></Students>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
@@ -156,12 +116,6 @@
   <Teacher name="Fabriny Neves Guimarães">
     <Day name="Segunda">
       <Hour name="18:50-20:30">
-        <Activity id="12"></Activity>
-        <Subject name="Teoria do crime e da Pena"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-1"></Students>
-        <Students name="Direito 2024-2"></Students>
-        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
@@ -170,13 +124,12 @@
       <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
-        <Activity id="20"></Activity>
+        <Activity id="21"></Activity>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-1"></Students>
         <Students name="Direito 2023-2"></Students>
         <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 409"></Room>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -186,22 +139,25 @@
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2025-1"></Students>
         <Students name="Direito 2024-2"></Students>
-        <Room name="Sala 403"></Room>
       </Hour>
       <Hour name="20:50-22:30">
-        <Activity id="21"></Activity>
+      </Hour>
+    </Day>
+    <Day name="Quinta">
+      <Hour name="18:50-20:30">
+        <Activity id="20"></Activity>
         <Subject name="Prisão, Recursos e Execução Penal"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-1"></Students>
         <Students name="Direito 2023-2"></Students>
         <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 409"></Room>
-      </Hour>
-    </Day>
-    <Day name="Quinta">
-      <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
+        <Activity id="12"></Activity>
+        <Subject name="Teoria do crime e da Pena"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2025-1"></Students>
+        <Students name="Direito 2024-2"></Students>
       </Hour>
     </Day>
   </Teacher>
@@ -210,12 +166,6 @@
       <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
-        <Activity id="26"></Activity>
-        <Subject name="Introdução ao Estudo do Direito"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2026-1"></Students>
-        <Students name="Direito 2025-2"></Students>
-        <Room name="Sala 408"></Room>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -225,12 +175,6 @@
       </Hour>
     </Day>
     <Day name="Quarta">
-      <Hour name="18:50-20:30">
-      </Hour>
-      <Hour name="20:50-22:30">
-      </Hour>
-    </Day>
-    <Day name="Quinta">
       <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
@@ -239,33 +183,46 @@
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-1"></Students>
         <Students name="Direito 2023-2"></Students>
-        <Room name="Sala 409"></Room>
+      </Hour>
+    </Day>
+    <Day name="Quinta">
+      <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
+        <Activity id="26"></Activity>
+        <Subject name="Introdução ao Estudo do Direito"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2026-1"></Students>
+        <Students name="Direito 2025-2"></Students>
       </Hour>
     </Day>
   </Teacher>
   <Teacher name="João Paulo Vasconcelos Caires">
     <Day name="Segunda">
       <Hour name="18:50-20:30">
-        <Activity id="7"></Activity>
-        <Subject name="Direitos Humanos"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-2"></Students>
-        <Students name="Direito 2026-1"></Students>
-        <Room name="Sala 408"></Room>
-      </Hour>
-      <Hour name="20:50-22:30">
         <Activity id="13"></Activity>
         <Subject name="Direito do Consumidor"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-1"></Students>
         <Students name="Direito 2025-1"></Students>
-        <Room name="Sala 409"></Room>
+      </Hour>
+      <Hour name="20:50-22:30">
+        <Activity id="17"></Activity>
+        <Subject name="Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2024-2"></Students>
+        <Students name="Direito 2023-1"></Students>
       </Hour>
     </Day>
     <Day name="Terça">
       <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
+        <Activity id="7"></Activity>
+        <Subject name="Direitos Humanos"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2025-2"></Students>
+        <Students name="Direito 2026-1"></Students>
       </Hour>
     </Day>
     <Day name="Quarta">
@@ -276,12 +233,6 @@
     </Day>
     <Day name="Quinta">
       <Hour name="18:50-20:30">
-        <Activity id="17"></Activity>
-        <Subject name="Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2024-2"></Students>
-        <Students name="Direito 2023-1"></Students>
-        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
@@ -302,19 +253,6 @@
         <Students name="Direito 2025-2"></Students>
         <Students name="Direito 2026-1"></Students>
         <Students name="Direito 2025-1"></Students>
-        <Room name="Sala 408"></Room>
-      </Hour>
-      <Hour name="20:50-22:30">
-        <Activity id="10"></Activity>
-        <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-1"></Students>
-        <Students name="Direito 2024-2"></Students>
-        <Room name="Sala 403"></Room>
-      </Hour>
-    </Day>
-    <Day name="Quarta">
-      <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
         <Activity id="9"></Activity>
@@ -322,27 +260,37 @@
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2025-1"></Students>
         <Students name="Direito 2024-2"></Students>
-        <Room name="Sala 403"></Room>
+      </Hour>
+    </Day>
+    <Day name="Quarta">
+      <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
       </Hour>
     </Day>
     <Day name="Quinta">
       <Hour name="18:50-20:30">
+        <Activity id="10"></Activity>
+        <Subject name="Direito das Obrigações e Responsabilidade Civil"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2025-1"></Students>
+        <Students name="Direito 2024-2"></Students>
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
     </Day>
   </Teacher>
-  <Teacher name="Michell Henriques Guerra">
+  <Teacher name="Marcus Macedo da Silva">
     <Day name="Segunda">
       <Hour name="18:50-20:30">
-        <Activity id="18"></Activity>
-        <Subject name="Direito Societário e Direito Cambiário"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2023-2"></Students>
-        <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 402"></Room>
       </Hour>
       <Hour name="20:50-22:30">
+        <Activity id="5"></Activity>
+        <Subject name="Psicologia Jurídica"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2025-2"></Students>
+        <Students name="Direito 2026-1"></Students>
+        <Students name="Direito 2025-1"></Students>
       </Hour>
     </Day>
     <Day name="Terça">
@@ -359,12 +307,42 @@
     </Day>
     <Day name="Quinta">
       <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
+      </Hour>
+    </Day>
+  </Teacher>
+  <Teacher name="Michell Henriques Guerra">
+    <Day name="Segunda">
+      <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
+        <Activity id="18"></Activity>
+        <Subject name="Direito Societário e Direito Cambiário"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2023-2"></Students>
+        <Students name="Direito 2024-1"></Students>
+      </Hour>
+    </Day>
+    <Day name="Terça">
+      <Hour name="18:50-20:30">
+      </Hour>
+      <Hour name="20:50-22:30">
+      </Hour>
+    </Day>
+    <Day name="Quarta">
+      <Hour name="18:50-20:30">
         <Activity id="19"></Activity>
         <Subject name="Direito Societário e Direito Cambiário"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2023-2"></Students>
         <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 403"></Room>
+      </Hour>
+      <Hour name="20:50-22:30">
+      </Hour>
+    </Day>
+    <Day name="Quinta">
+      <Hour name="18:50-20:30">
       </Hour>
       <Hour name="20:50-22:30">
       </Hour>
@@ -385,34 +363,31 @@
     </Day>
     <Day name="Quarta">
       <Hour name="18:50-20:30">
-        <Activity id="22"></Activity>
-        <Subject name="Direito das Famílias"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2023-1"></Students>
-        <Students name="Direito 2023-2"></Students>
-        <Students name="Direito 2024-1"></Students>
-        <Room name="Sala 409"></Room>
       </Hour>
       <Hour name="20:50-22:30">
-        <Activity id="2"></Activity>
-        <Subject name="História do Direito"></Subject>
-        <Activity_Tag name="Direito"></Activity_Tag>
-        <Students name="Direito 2025-2"></Students>
-        <Students name="Direito 2026-1"></Students>
-        <Room name="Sala 408"></Room>
-      </Hour>
-    </Day>
-    <Day name="Quinta">
-      <Hour name="18:50-20:30">
         <Activity id="4"></Activity>
         <Subject name="Hermenêutica Jurídica"></Subject>
         <Activity_Tag name="Direito"></Activity_Tag>
         <Students name="Direito 2025-2"></Students>
         <Students name="Direito 2026-1"></Students>
         <Students name="Direito 2025-1"></Students>
-        <Room name="Sala 408"></Room>
+      </Hour>
+    </Day>
+    <Day name="Quinta">
+      <Hour name="18:50-20:30">
+        <Activity id="2"></Activity>
+        <Subject name="História do Direito"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2025-2"></Students>
+        <Students name="Direito 2026-1"></Students>
       </Hour>
       <Hour name="20:50-22:30">
+        <Activity id="22"></Activity>
+        <Subject name="Direito das Famílias"></Subject>
+        <Activity_Tag name="Direito"></Activity_Tag>
+        <Students name="Direito 2023-1"></Students>
+        <Students name="Direito 2023-2"></Students>
+        <Students name="Direito 2024-1"></Students>
       </Hour>
     </Day>
   </Teacher>

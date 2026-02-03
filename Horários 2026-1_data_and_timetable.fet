@@ -209,15 +209,6 @@
   </Activity_Tags_List>
   <Teachers_List>
     <Teacher>
-      <Name>(Psicologia)</Name>
-      <Long_Name></Long_Name>
-      <Code></Code>
-      <Target_Number_of_Hours>0</Target_Number_of_Hours>
-      <Qualified_Subjects>
-      </Qualified_Subjects>
-      <Comments></Comments>
-    </Teacher>
-    <Teacher>
       <Name>Alyson Fidelis de Morais</Name>
       <Long_Name></Long_Name>
       <Code></Code>
@@ -273,6 +264,15 @@
     </Teacher>
     <Teacher>
       <Name>José Francisco Costa Júnior</Name>
+      <Long_Name></Long_Name>
+      <Code></Code>
+      <Target_Number_of_Hours>0</Target_Number_of_Hours>
+      <Qualified_Subjects>
+      </Qualified_Subjects>
+      <Comments></Comments>
+    </Teacher>
+    <Teacher>
+      <Name>Marcus Macedo da Silva</Name>
       <Long_Name></Long_Name>
       <Code></Code>
       <Target_Number_of_Hours>0</Target_Number_of_Hours>
@@ -407,7 +407,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>(Psicologia)</Teacher>
+      <Teacher>Marcus Macedo da Silva</Teacher>
       <Subject>Psicologia Jurídica</Subject>
       <Activity_Tag>Direito</Activity_Tag>
       <Students>Direito 2025-2</Students>
@@ -878,8 +878,13 @@
     </Room>
   </Rooms_List>
   <Time_Constraints_List>
+    <ConstraintBasicCompulsoryTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintBasicCompulsoryTime>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>9</Activity_Id>
@@ -889,7 +894,7 @@
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>11</Activity_Id>
@@ -899,7 +904,7 @@
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>15</Activity_Id>
@@ -909,7 +914,7 @@
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>18</Activity_Id>
@@ -919,7 +924,7 @@
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>20</Activity_Id>
@@ -929,7 +934,7 @@
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
     <ConstraintMinDaysBetweenActivities>
-      <Weight_Percentage>95</Weight_Percentage>
+      <Weight_Percentage>100</Weight_Percentage>
       <Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
       <Number_of_Activities>2</Number_of_Activities>
       <Activity_Id>24</Activity_Id>
@@ -938,15 +943,41 @@
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintMinDaysBetweenActivities>
-    <ConstraintBasicCompulsoryTime>
+    <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Alyson Fidelis de Morais</Teacher>
+      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
       <Active>true</Active>
       <Comments></Comments>
-    </ConstraintBasicCompulsoryTime>
+    </ConstraintTeacherNotAvailableTimes>
     <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
       <Teacher>Amaury Silva</Teacher>
-      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+      <Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Terça</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
       <Not_Available_Time>
         <Day>Quarta</Day>
         <Hour>18:50-20:30</Hour>
@@ -991,6 +1022,48 @@
     </ConstraintTeacherNotAvailableTimes>
     <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>Guilherme Saraiva Brandão</Teacher>
+      <Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Segunda</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Terça</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Terça</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quinta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
       <Teacher>José Francisco Costa Júnior</Teacher>
       <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
       <Not_Available_Time>
@@ -1004,23 +1077,24 @@
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintTeacherNotAvailableTimes>
-    <ConstraintTeacherMaxDaysPerWeek>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>José Francisco Costa Júnior</Teacher>
-      <Max_Days_Per_Week>2</Max_Days_Per_Week>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintTeacherMaxDaysPerWeek>
-    <ConstraintTeacherMinDaysPerWeek>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Fabriny Neves Guimarães</Teacher>
-      <Minimum_Days_Per_Week>3</Minimum_Days_Per_Week>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintTeacherMinDaysPerWeek>
     <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Fabriny Neves Guimarães</Teacher>
+      <Teacher>Marcus Macedo da Silva</Teacher>
+      <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>18:50-20:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Quarta</Day>
+        <Hour>20:50-22:30</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>João Paulo Vasconcelos Caires</Teacher>
       <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
       <Not_Available_Time>
         <Day>Quinta</Day>
@@ -1042,46 +1116,28 @@
     </ConstraintTeacherMaxDaysPerWeek>
     <ConstraintTeacherMaxDaysPerWeek>
       <Weight_Percentage>100</Weight_Percentage>
+      <Teacher>José Francisco Costa Júnior</Teacher>
+      <Max_Days_Per_Week>2</Max_Days_Per_Week>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintTeacherMaxDaysPerWeek>
+    <ConstraintTeacherMaxDaysPerWeek>
+      <Weight_Percentage>100</Weight_Percentage>
       <Teacher>Thiago Caetano e Silva</Teacher>
       <Max_Days_Per_Week>2</Max_Days_Per_Week>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintTeacherMaxDaysPerWeek>
-    <ConstraintTeacherNotAvailableTimes>
+    <ConstraintTeacherMaxDaysPerWeek>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Guilherme Saraiva Brandão</Teacher>
-      <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
-      <Not_Available_Time>
-        <Day>Segunda</Day>
-        <Hour>18:50-20:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Terça</Day>
-        <Hour>18:50-20:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Quarta</Day>
-        <Hour>18:50-20:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Quinta</Day>
-        <Hour>18:50-20:30</Hour>
-      </Not_Available_Time>
+      <Teacher>Alyson Fidelis de Morais</Teacher>
+      <Max_Days_Per_Week>1</Max_Days_Per_Week>
       <Active>true</Active>
       <Comments></Comments>
-    </ConstraintTeacherNotAvailableTimes>
+    </ConstraintTeacherMaxDaysPerWeek>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>2</Activity_Id>
-      <Day>Quarta</Day>
-      <Hour>20:50-22:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>4</Activity_Id>
       <Day>Quinta</Day>
       <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -1090,8 +1146,17 @@
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>4</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>5</Activity_Id>
-      <Day>Quinta</Day>
+      <Day>Segunda</Day>
       <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1109,6 +1174,15 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>7</Activity_Id>
+      <Day>Terça</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>8</Activity_Id>
       <Day>Segunda</Day>
       <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -1117,17 +1191,8 @@
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>8</Activity_Id>
-      <Day>Quarta</Day>
-      <Hour>18:50-20:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>9</Activity_Id>
-      <Day>Quarta</Day>
+      <Day>Terça</Day>
       <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1136,8 +1201,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>10</Activity_Id>
-      <Day>Terça</Day>
-      <Hour>20:50-22:30</Hour>
+      <Day>Quinta</Day>
+      <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1154,8 +1219,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>12</Activity_Id>
-      <Day>Segunda</Day>
-      <Hour>18:50-20:30</Hour>
+      <Day>Quinta</Day>
+      <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1164,7 +1229,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>13</Activity_Id>
       <Day>Segunda</Day>
-      <Hour>20:50-22:30</Hour>
+      <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1172,7 +1237,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>14</Activity_Id>
-      <Day>Quinta</Day>
+      <Day>Quarta</Day>
       <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1181,7 +1246,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>15</Activity_Id>
-      <Day>Terça</Day>
+      <Day>Segunda</Day>
       <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1190,8 +1255,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>16</Activity_Id>
-      <Day>Segunda</Day>
-      <Hour>20:50-22:30</Hour>
+      <Day>Terça</Day>
+      <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1199,8 +1264,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>17</Activity_Id>
-      <Day>Quinta</Day>
-      <Hour>18:50-20:30</Hour>
+      <Day>Segunda</Day>
+      <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1209,7 +1274,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>18</Activity_Id>
       <Day>Segunda</Day>
-      <Hour>18:50-20:30</Hour>
+      <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1217,7 +1282,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>19</Activity_Id>
-      <Day>Quinta</Day>
+      <Day>Quarta</Day>
       <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1226,8 +1291,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>20</Activity_Id>
-      <Day>Terça</Day>
-      <Hour>20:50-22:30</Hour>
+      <Day>Quinta</Day>
+      <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1235,7 +1300,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>21</Activity_Id>
-      <Day>Quarta</Day>
+      <Day>Terça</Day>
       <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -1244,42 +1309,6 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>22</Activity_Id>
-      <Day>Quarta</Day>
-      <Hour>18:50-20:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>24</Activity_Id>
-      <Day>Segunda</Day>
-      <Hour>18:50-20:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>25</Activity_Id>
-      <Day>Terça</Day>
-      <Hour>18:50-20:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>26</Activity_Id>
-      <Day>Segunda</Day>
-      <Hour>20:50-22:30</Hour>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredStartingTime>
-    <ConstraintActivityPreferredStartingTime>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>27</Activity_Id>
       <Day>Quinta</Day>
       <Hour>20:50-22:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
@@ -1288,9 +1317,45 @@
     </ConstraintActivityPreferredStartingTime>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>28</Activity_Id>
+      <Activity_Id>24</Activity_Id>
       <Day>Terça</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>25</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>18:50-20:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>26</Activity_Id>
+      <Day>Quinta</Day>
       <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>27</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>20:50-22:30</Hour>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredStartingTime>
+    <ConstraintActivityPreferredStartingTime>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>28</Activity_Id>
+      <Day>Quarta</Day>
+      <Hour>18:50-20:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -1337,126 +1402,126 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Estágio Supervisionado - Prática Simulada Cível</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Legislação Penal Especial</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Prisão, Recursos e Execução Penal</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito Administrativo - Serviço, Contratos, Licitações e Responsabilidade Civil do Estado</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito do Consumidor</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito das Famílias</Subject>
       <Room>Sala 409</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Economia</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>História do Direito</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Introdução ao Estudo do Direito</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Hermenêutica Jurídica</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Psicologia Jurídica</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direitos Humanos</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Ética Geral e Profissional</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Federalismo e Organização do Estado</Subject>
       <Room>Sala 408</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Direito das Obrigações e Responsabilidade Civil</Subject>
       <Room>Sala 403</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Teoria do crime e da Pena</Subject>
       <Room>Sala 403</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Empreendedorismo e Marketing Jurídico</Subject>
       <Room>Sala 403</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintSubjectPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Subject>Processos de Execução e Cumprimento de Sentença</Subject>
       <Room>Sala 403</Room>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintSubjectPreferredRoom>
     <ConstraintActivityPreferredRoom>
@@ -1464,7 +1529,7 @@
       <Activity_Id>18</Activity_Id>
       <Room>Sala 402</Room>
       <Permanently_Locked>true</Permanently_Locked>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
@@ -1472,191 +1537,7 @@
       <Activity_Id>19</Activity_Id>
       <Room>Sala 403</Room>
       <Permanently_Locked>true</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>2</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>4</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>5</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>6</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>7</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>8</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>9</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>10</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>11</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>12</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>13</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>14</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>15</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>16</Activity_Id>
-      <Room>Sala 403</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>17</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>20</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>21</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>22</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>24</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>25</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>26</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>27</Activity_Id>
-      <Room>Sala 409</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>28</Activity_Id>
-      <Room>Sala 408</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
+      <Active>false</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
   </Space_Constraints_List>
